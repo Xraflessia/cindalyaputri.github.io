@@ -2,7 +2,7 @@
 # Cindy Alya Putri Portfolio
 
 <p align="center">
-  <img src="public/favicon.png" width="100" alt="Portfolio Logo" />
+  <img src="src/assets/images/cindy.jpeg" width="100" alt="Portfolio Logo" />
 </p>
 
 <h3 align="center">
